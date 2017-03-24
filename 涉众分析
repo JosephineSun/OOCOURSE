@@ -2,7 +2,7 @@
 #甲方需求报告：#
 https://github.com/Erutan-pku/oo/blob/dfcd9c448f1d7c48cc7be6e3286a955acd731fed/%E8%AF%BE%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E9%9C%80%E6%B1%82%E6%8A%A5%E5%91%8A.md版本号98a47c0 ###
 ##一、涉众概要##
-<table>
+<table classs="table table-bordered table-striped table-condensed">
 <tr>
 <th>编号</th>	
 <th>涉众名称</th>
@@ -46,7 +46,7 @@ https://github.com/Erutan-pku/oo/blob/dfcd9c448f1d7c48cc7be6e3286a955acd731fed/%
 ## 二. 涉众简档  ##
 
 ### 1. 学生涉众简档 ###
-<table>
+<table classs="table table-bordered table-striped table-condensed">
 
 <tr>
 <th>涉众</th>	
