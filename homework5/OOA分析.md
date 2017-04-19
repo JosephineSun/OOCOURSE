@@ -8,5 +8,6 @@
 # 2.流程图 #
 ## 2.1 ##
 ![image](https://github.com/JosephineSun/OOCOURSE/blob/master/homework5/picture/学生选课流程图.png)
+![image](https://github.com/JosephineSun/OOCOURSE/blob/master/homework5/picture/成绩查询流程图.png)
 ## 2.2 ##
 ![image](https://github.com/JosephineSun/OOCOURSE/blob/master/homework5/picture/教师流程图.png)
