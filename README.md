@@ -12,3 +12,6 @@
 ## 第四次作业
 ### 需求分析
 [作为乙方的需求分析](https://github.com/JosephineSun/OOCOURSE/tree/master/homework4)<br>
+## 第五次作业
+### 建立对象模型
+[OOA分析](https://github.com/JosephineSun/OOCOURSE/blob/master/homework5/OOA分析.md)
