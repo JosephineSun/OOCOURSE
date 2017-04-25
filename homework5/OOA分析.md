@@ -21,8 +21,10 @@
 属性包括学生名单和成绩。<br>
 # 2.顺序图 #
 ## 2.1 ##
+学生登录系统，进行选课，查询成绩。<br>
 ![image](https://github.com/JosephineSun/OOCOURSE/blob/master/homework5/picture/流程图学生.png)
 ## 2.2 ##
+教师登录系统，发布课程信息，录入学生成绩。<br>
 ![image](https://github.com/JosephineSun/OOCOURSE/blob/master/homework5/picture/流程图老师.png)
 # 3.活动图 #
 ## 3.1 ##
